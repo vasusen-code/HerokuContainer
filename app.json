@@ -1,0 +1,17 @@
+{
+    "name": "create a container app",
+    "description": "",
+    "logo": "",
+    "keywords": [""],
+    "repository": "https://github.com/vasusen-code/HerokuContainer",
+    "website": "",
+    "success_url": "https://t.me/DroneBots",
+    "env": {
+        "Empty": {
+            "description": "keep it empty",
+            "value": "",
+            "required": false
+        }
+    },
+    "stack": "container"
+}        
